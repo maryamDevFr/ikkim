@@ -1,0 +1,65 @@
+.head{
+    text-align: center;
+    margin-top: 150px;
+    font-size: 80px;
+    font-weight: 900px;
+    padding-top: 80px;
+    width: 500px;
+    margin:  0 auto;
+}
+.card{
+    width: 393px;
+    height: 396px;
+    text-align: center;
+}
+
+.you{
+    width: 393px;
+    height: 396px;
+    text-align: center;
+}
+
+.box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 50px;
+
+}
+
+
+.div{
+    width: 393px;
+    height: 396px;
+    text-align: center;
+}
+
+.me{
+    width: 393px;
+    height: 396px;
+    text-align: center;
+}
+
+.duv{
+    width: 393px;
+    height: 396px;
+    text-align: center;
+}
+.them{
+    width: 393px;
+    height: 396px;
+    text-align: center;
+}
+
+.red{
+    width: 393px;
+    height: 396px;
+    text-align: center;
+}
+
+
+.du{
+    width: 393px;
+    height: 396px;
+    text-align: center;
+}
